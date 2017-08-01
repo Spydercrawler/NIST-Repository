@@ -1,0 +1,16 @@
+Non-Docstring Text
+"""
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Aliquam massa sapien, tempus in cursus eget, pulvinar et neque.
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean gravida finibus eros eu ullamcorper.
+
+**thing1:** One of the parameters
+
+**thing2:** Another one of the parameters
+
+**thing3:** A third parameter
+
+**cow:** just mixing things up a little
+
+**thing4:** A fourth parameter
+"""

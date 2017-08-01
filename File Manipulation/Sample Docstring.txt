@@ -1,0 +1,11 @@
+Non-Docstring Text
+"""
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Aliquam massa sapien, tempus in cursus eget, pulvinar et neque.
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean gravida finibus eros eu ullamcorper.
+:param thing1: One of the parameters
+:param thing2: Another one of the parameters
+:param thing3: A third parameter
+:param cow: just mixing things up a little
+:param thing4: A fourth parameter
+"""
